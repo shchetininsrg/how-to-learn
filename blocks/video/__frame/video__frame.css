@@ -1,0 +1,7 @@
+.video__frame {
+    
+}
+
+.video__frame:last-of-type {
+    margin-left: 20px;
+}
