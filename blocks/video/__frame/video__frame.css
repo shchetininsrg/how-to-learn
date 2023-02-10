@@ -1,5 +1,5 @@
 .video__frame {
-    
+    border: 0;
 }
 
 .video__frame:last-of-type {
